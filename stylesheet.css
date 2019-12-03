@@ -264,6 +264,17 @@ td
     background-color: gray;
 }
 
+.storeLink
+{
+	background-color: black;
+	margin-left: 300px;
+}
+
+.storeLink:hover
+{
+	background-color:gray;
+}
+
 h1 
 {
     padding-top:0px; 
